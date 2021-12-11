@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-11T00:10:57.439Z" agent="5.0 (X11)" etag="L61uz48iFQ6hoUgtLjqz" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-11T00:30:38.216Z" agent="5.0 (X11)" etag="iS03V6Ga1PgdtnqoH4HW" version="15.9.4" type="github">
   <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
     <mxGraphModel dx="1178" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -187,6 +187,12 @@
         </mxCell>
         <mxCell id="1OdC3Qsrmz_PHcyCNAHJ-48" value="&lt;div&gt;B_BAR&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="615" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1OdC3Qsrmz_PHcyCNAHJ-49" value="Sum" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1OdC3Qsrmz_PHcyCNAHJ-50" value="Cout" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="350" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
